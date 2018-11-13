@@ -1,5 +1,5 @@
 # notebooks
-a place for my WIPs
+Welcome to my noteboook. This is a place for my pet projects in data analysis and data science.
 
 | Analysis Type | Title | Topics Explored |
 | ----------- | ----------- |----------- |
