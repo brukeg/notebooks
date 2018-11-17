@@ -12,3 +12,4 @@ Welcome to my noteboook. This is a place for my pet projects in data analysis an
 | supervised learning | [MNSIT image recognition](https://github.com/brukeg/notebooks/blob/master/supervised-learning-MNSIT-image-recognition.ipynb)| Pandas, Numpy, Matplotlib, k-NN, k-NN parameter tuning, train test split, over and underfitting |
 | supervised learning | [white wine](https://github.com/brukeg/notebooks/blob/master/supervised-learning-white-wine.ipynb) | Support Vector Machines, GridSearchCV, scaling features, processing pipeline, classification reports |
 | unsupervised learning | [clustering seed varieties](https://github.com/brukeg/notebooks/blob/master/unsupervised-learning-clustering-seed-varieties.ipynb) | PCA, KMeans, clustering, cross tabulation, t-SNE, pearson correlation, dimension reduction, decorrelation
+| unsupervised learning | [clustering fish species]() | PCA, KMeans, clustering, cross tabulation, dimension reduction
